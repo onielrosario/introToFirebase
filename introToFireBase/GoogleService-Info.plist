@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>803399071533-6a11aj3qbi169kh4dve9d594g6ku5bnj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.803399071533-6a11aj3qbi169kh4dve9d594g6ku5bnj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAkqjdoJOv41R3jyz-pa6DpwHLA64E4TBE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>803399071533</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>typesAndVariables.introToFireBase</string>
+	<key>PROJECT_ID</key>
+	<string>racereviews-cc104</string>
+	<key>STORAGE_BUCKET</key>
+	<string>racereviews-cc104.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:803399071533:ios:1cff3da914897498</string>
+	<key>DATABASE_URL</key>
+	<string>https://racereviews-cc104.firebaseio.com</string>
+</dict>
+</plist>
